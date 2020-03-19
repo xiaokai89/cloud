@@ -1,2 +1,2 @@
 # cloud
-spirng cloud 架构基础组件
+spring cloud 架构基础组件
